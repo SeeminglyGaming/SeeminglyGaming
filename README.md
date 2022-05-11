@@ -20,7 +20,7 @@
     </div>
     <div class="topnav1">
         <a href="https://mycasewebsite.netlify.app">
-            <img alt="Home button" src="/images/favicon.png" style="width: 75px; height: 75px;">
+            <img alt="Home button" src="/images/Seemingly.png" style="width: 75px; height: 75px;">
         </a>
     </div>
     <h1>About me</h1>
